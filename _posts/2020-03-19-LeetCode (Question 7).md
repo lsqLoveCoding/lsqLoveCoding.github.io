@@ -1,3 +1,16 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      LeetCode Question7 整数反转               # 标题 
+subtitle:    Java
+date:       2020-03-19              # 时间
+author:     LSQ                      # 作者
+# header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - LeetCode
+    - Java
+---  
+  
 **LeetCode Question #7 整数反转**  
   
 &emsp;&emsp;给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。 
