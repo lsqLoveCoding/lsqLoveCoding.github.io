@@ -8,7 +8,6 @@ author:     LSQ                      # 作者
 catalog: true                       # 是否归档
 tags:                               #标签
     - LeetCode
-    - Java
 ---
 
 
