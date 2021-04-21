@@ -1,8 +1,8 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      在mybatis中#{}和${}的区别，使用场景               # 标题 
+title:      2021-04-21-在mybatis中#{}和${}的区别，使用场景               # 标题 
 subtitle:    #副标题
-date:       2020-11-17              # 时间
+date:       2021-04-21              # 时间
 author:     LSQ                      # 作者
 # header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
